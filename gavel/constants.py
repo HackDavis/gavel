@@ -11,7 +11,7 @@ SETTING_FALSE = 'false'
 # Defaults
 # these can be overridden via the config file
 DEFAULT_WELCOME_MESSAGE = '''
-Welcome to Gavel.
+Welcome to Gavel, the HackDavis Judging System.
 
 **Please read this important message carefully before continuing.**
 
@@ -31,7 +31,7 @@ Gavel makes it really simple for you to submit votes, but please think hard
 before you vote. **Once you make a decision, you can't take it back**.
 '''.strip()
 
-DEFAULT_EMAIL_SUBJECT = 'Welcome to Gavel!'
+DEFAULT_EMAIL_SUBJECT = 'Welcome to HackDavis Judging!'
 
 DEFAULT_EMAIL_BODY = '''
 Hi {name},

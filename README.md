@@ -3,7 +3,7 @@
 **Gavel** is a project expo judging system.
 
 Gavel was originally built for HackMIT and first used at HackMIT 2015. It has
-been used by [dozens][users] of other events since then.
+been used by [dozens][users] of other events since then. 
 
 **If you use Gavel for your event, please add yourself to [this list][users]!
 It only takes a minute, and knowing that Gavel is helping real events helps
